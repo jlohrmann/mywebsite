@@ -6,3 +6,6 @@ adding some other changes
 
 this is weird
 junk
+
+
+hey were did my other stuff go?  its missing
